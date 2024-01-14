@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("========================================");
             Console.Write("Enter a weight in pounds (lbs): ");
+            Console.WriteLine("========================================");
         }
     }
 }
